@@ -3,3 +3,6 @@ Var A = "This is string"
 Var Family = "The Mehtab" , Dad = " Baljit" , Mom = " Preet" ,
 Daughter =  " Penny" , Son = " Gurbaj" ,
 document.write(Dad)
+
+
+function subtraction_function () { var subtraction = 5-2:document.getElementsById ("Math").inner HTML="5-2 = "+Subtraction;}
