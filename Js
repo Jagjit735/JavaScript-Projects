@@ -13,3 +13,10 @@ document.getElementById ("Math").innerHTML ="6 = "+Simple_Math
 
 function more_Math (){ var simple_Math = (1+2) * 10/2-5;document.getElemtsById("mATH").innerHTML = "1 plus 2, multiplied by 10,divided
 in half &  then subtracted by 5 equals + simple_Math,
+
+Increment :
+var x =6;
+x ++ ;
+document.write (x);
+increment from 6 to 7
+
