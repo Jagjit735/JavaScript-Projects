@@ -1,1 +1,5 @@
 Var A = "This is string"
+
+Var Family = "The Mehtab" , Dad = " Baljit" , Mom = " Preet" ,
+Daughter =  " Penny" , Son = " Gurbaj" ,
+document.write(Dad)
