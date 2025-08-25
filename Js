@@ -10,3 +10,6 @@ function subtraction_function () { var subtraction = 5-2:document.getElementsByI
 function multiplication (){
      var simple_Math =  6 * 8;
 document.getElementById ("Math").innerHTML ="6 = "+Simple_Math
+
+function more_Math (){ var simple_Math = (1+2) * 10/2-5;document.getElemtsById("mATH").innerHTML = "1 plus 2, multiplied by 10,divided
+in half &  then subtracted by 5 equals + simple_Math,
