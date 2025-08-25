@@ -6,3 +6,7 @@ document.write(Dad)
 
 
 function subtraction_function () { var subtraction = 5-2:document.getElementsById ("Math").inner HTML="5-2 = "+Subtraction;}
+
+function multiplication (){
+     var simple_Math =  6 * 8;
+document.getElementById ("Math").innerHTML ="6 = "+Simple_Math
